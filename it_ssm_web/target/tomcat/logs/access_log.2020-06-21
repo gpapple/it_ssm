@@ -1,7 +1,0 @@
-0:0:0:0:0:0:0:1 - - [21/Jun/2020:18:34:11 +0800] "GET /it_ssm_web/ HTTP/1.1" 200 156 http-bio-9050-exec-1 969
-0:0:0:0:0:0:0:1 - - [21/Jun/2020:18:34:13 +0800] "GET /it_ssm_web/product/findAll.do HTTP/1.1" 200 20822 http-bio-9050-exec-3 1543
-0:0:0:0:0:0:0:1 - - [21/Jun/2020:18:34:13 +0800] "GET /it_ssm_web/plugins/jvectormap/jquery-jvectormap-1.2.2.css HTTP/1.1" 404 1065 http-bio-9050-exec-4 3
-0:0:0:0:0:0:0:1 - - [21/Jun/2020:18:34:14 +0800] "GET /it_ssm_web/plugins/adminLTE/js/app.min.js HTTP/1.1" 404 1033 http-bio-9050-exec-2 3
-0:0:0:0:0:0:0:1 - - [21/Jun/2020:18:34:14 +0800] "GET /it_ssm_web/plugins/datatables/dataTables.bootstrap.min.js HTTP/1.1" 404 1065 http-bio-9050-exec-5 15
-0:0:0:0:0:0:0:1 - - [21/Jun/2020:18:34:14 +0800] "GET /it_ssm_web/plugins/adminLTE/js/app.min.js HTTP/1.1" 404 1033 http-bio-9050-exec-8 1
-0:0:0:0:0:0:0:1 - - [21/Jun/2020:18:34:14 +0800] "GET /it_ssm_web/plugins/datatables/dataTables.bootstrap.min.js HTTP/1.1" 404 1065 http-bio-9050-exec-9 2

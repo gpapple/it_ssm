@@ -7,6 +7,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
+import javax.xml.ws.RequestWrapper;
 import java.util.List;
 
 /**
@@ -27,5 +28,11 @@ public class ProductController {
         mv.addObject("productList", productList);
         mv.setViewName("product-list");
         return mv;
+    }
+
+    @RequestMapping("/save.do")
+    public String saveProduct(Product product){
+        productService.save(product);
+        return "redirect:findAll.do";
     }
 }
