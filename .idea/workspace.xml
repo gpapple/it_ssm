@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="531acc91-04fd-4f86-8803-2bf0c831ad15" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/orders-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/orders-page-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/product-add.jsp" afterDir="false" />
+>>>>>>> origin/master
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/it_ssm_dao/target/it_ssm_dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_dao/target/it_ssm_dao-1.0-SNAPSHOT.jar" afterDir="false" />
@@ -18,6 +28,7 @@
       <change beforePath="$PROJECT_DIR$/it_ssm_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/it_ssm_utils/target/it_ssm_utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_utils/target/it_ssm_utils-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/it_ssm_utils/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_utils/target/maven-archiver/pom.properties" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/it_ssm_web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/it_ssm_web/target/it_ssm_web.war" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/it_ssm_web/target/it_ssm_web/WEB-INF/classes/applicationContext.xml" beforeDir="false" />
@@ -1117,6 +1128,28 @@
       <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/header_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/header_jsp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/orders_002dpage_002dlist_jsp.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/orders_002dpage_002dlist_jsp.java" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/src/main/java/com/it/ssm/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/src/main/java/com/it/ssm/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/classes/com/it/ssm/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/target/classes/com/it/ssm/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/target/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/logs/access_log.2020-06-21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/index_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/index_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/aside_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/aside_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/header_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/header_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/product_002dlist_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/product_002dlist_jsp.java" beforeDir="false" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
+>>>>>>> origin/master
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1137,16 +1170,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/failer.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="630">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
+=======
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/it_ssm_service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+=======
+        <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/aside.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="70" column="14" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
+>>>>>>> origin/master
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/it_ssm_dao/src/main/java/com/it/ssm/dao/UserDao.java">
+=======
+      <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+=======
+        <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/orders-page-list.jsp">
+>>>>>>> origin/master
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="457">
               <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
@@ -1160,14 +1218,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/it_ssm_domain/src/main/java/com/it/ssm/domain/Role.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="390">
               <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+=======
+            <state relative-caret-position="545">
+              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
+              <folding>
+                <element signature="e#1223#1239#0" expanded="true" />
+                <element signature="e#1281#1294#0" expanded="true" />
+                <element signature="e#1333#1351#0" expanded="true" />
+                <element signature="e#1394#1412#0" expanded="true" />
+              </folding>
+>>>>>>> origin/master
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/it_ssm_dao/src/main/java/com/it/ssm/dao/RoleDao.java">
+=======
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/resources/db.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+=======
+        <entry file="file://$PROJECT_DIR$/it_ssm_service/src/main/java/com/it/ssm/service/OrderService.java">
+>>>>>>> origin/master
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="14" column="98" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="98" />
@@ -1229,6 +1309,7 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
             </state>
           </provider>
         </entry>
@@ -1253,10 +1334,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/product-list.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/it_ssm_service/src/main/java/com/it/ssm/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/it_ssm_service/src/main/java/com/it/ssm/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/it_ssm_web/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/it_ssm_dao/src/main/java/com/it/ssm/dao/ProductDao.java" />
+=======
         <option value="$PROJECT_DIR$/pom.xml" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
         <option value="$PROJECT_DIR$/it_ssm_web/pom.xml" />
         <option value="$PROJECT_DIR$/it_ssm_web/src/main/webapp/WEB-INF/pages/save.jsp" />
         <option value="$PROJECT_DIR$/it_ssm_web/src/main/webapp/WEB-INF/pages/product-list.jsp" />
@@ -1270,6 +1361,10 @@
         <option value="$PROJECT_DIR$/it_ssm_service/src/main/java/com/it/ssm/service/impl/ProductServiceImpl.java" />
         <option value="$PROJECT_DIR$/it_ssm_web/src/main/java/com/it/ssm/controller/ProductController.java" />
         <option value="$PROJECT_DIR$/it_ssm_domain/src/main/java/com/it/ssm/domain/Product.java" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/it_ssm_web/src/main/resources/db.properties" />
+=======
         <option value="$PROJECT_DIR$/it_ssm_web/src/main/resources/db.properties" />
         <option value="$PROJECT_DIR$/it_ssm_domain/src/main/java/com/it/ssm/domain/Member.java" />
         <option value="$PROJECT_DIR$/it_ssm_domain/src/main/java/com/it/ssm/domain/Traveller.java" />
@@ -1281,6 +1376,7 @@
         <option value="$PROJECT_DIR$/it_ssm_service/src/main/java/com/it/ssm/service/impl/OrderServiceImpl.java" />
         <option value="$PROJECT_DIR$/it_ssm_web/src/main/java/com/it/ssm/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/orders-page-list.jsp" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/it_ssm_domain/src/main/java/com/it/ssm/domain/UserInfo.java" />
         <option value="$PROJECT_DIR$/it_ssm_domain/src/main/java/com/it/ssm/domain/Permission.java" />
         <option value="$PROJECT_DIR$/it_ssm_domain/src/main/java/com/it/ssm/domain/Role.java" />
@@ -1289,17 +1385,13 @@
         <option value="$PROJECT_DIR$/it_ssm_web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/it_ssm_dao/src/main/java/com/it/ssm/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/it_ssm_service/src/main/java/com/it/ssm/service/impl/UserServiceImpl.java" />
+=======
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
+>>>>>>> origin/master
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\gp\.m2\repository" />
-        <option name="mavenHome" value="D:/apache-maven-3.5.2-bin/apache-maven-3.5.2" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -1331,11 +1423,19 @@
       <select />
     </treeState>
   </component>
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds">
+    <option name="x" value="160" />
+    <option name="y" value="69" />
+    <option name="width" value="1745" />
+    <option name="height" value="948" />
+=======
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -1354,6 +1454,8 @@
             <path>
               <item name="it_ssm" type="b2602c69:ProjectViewProjectNode" />
               <item name="it_ssm" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
               <item name="it_ssm_dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1639,6 +1741,7 @@
             <path>
               <item name="it_ssm" type="b2602c69:ProjectViewProjectNode" />
               <item name="it_ssm" type="462c0819:PsiDirectoryNode" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
               <item name="it_ssm_web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1669,39 +1772,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="it_ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="it_ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="it_ssm_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="it" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="it_ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="it_ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="it_ssm_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="it" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="it_ssm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="it_ssm" type="462c0819:PsiDirectoryNode" />
-              <item name="it_ssm_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="it" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1711,6 +1781,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="it_ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="it_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="it_ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="it_ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="it_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="it_ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="it_ssm" type="b2602c69:ProjectViewProjectNode" />
@@ -1744,10 +1831,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/it_ssm_domain/src/main/java/com/it/ssm/domain" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3446691" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1777,7 +1864,22 @@
     <configuration name="it-ssm-web" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
             <option name="profiles">
@@ -1813,9 +1915,25 @@
       <workItem from="1592722191246" duration="1712000" />
       <workItem from="1592724022356" duration="13615000" />
       <workItem from="1592739115447" duration="20000" />
+<<<<<<< HEAD
+      <workItem from="1592815947786" duration="350000" />
+      <workItem from="1592816306687" duration="118000" />
+      <workItem from="1592819291379" duration="22000" />
+      <workItem from="1592819493002" duration="137000" />
+      <workItem from="1592819662212" duration="731000" />
+      <workItem from="1592820405028" duration="331000" />
+      <workItem from="1592820744919" duration="541000" />
+      <workItem from="1592875011803" duration="1637000" />
+      <workItem from="1592876662170" duration="1266000" />
+=======
       <workItem from="1592739186032" duration="997000" />
+<<<<<<< HEAD
       <workItem from="1592823711666" duration="11606000" />
       <workItem from="1592914976933" duration="5201000" />
+=======
+      <workItem from="1592823711666" duration="9914000" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
+>>>>>>> origin/master
     </task>
     <task id="LOCAL-00001" summary="删除 XML文件">
       <created>1592739326924</created>
@@ -1835,14 +1953,30 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="33151000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="20480000" />
+=======
+    <option name="totallyTimeSpent" value="26258000" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
+>>>>>>> origin/master
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="160" y="69" width="1745" height="948" extended-state="0" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49888393" visible="true" weight="0.23497854" />
       <window_info id="Structure" order="1" sideWeight="0.5011161" side_tool="true" weight="0.23497854" />
+=======
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29587567" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18776824" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+>>>>>>> origin/master
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -1851,8 +1985,17 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22376738" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5183312" />
+=======
       <window_info anchor="bottom" id="Run" order="2" weight="0.2890625" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.22767857" />
+=======
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.24441965" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
+>>>>>>> origin/master
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1868,8 +2011,16 @@
       <window_info anchor="bottom" id="Version Control" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+<<<<<<< HEAD
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.23712446" />
+=======
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+<<<<<<< HEAD
+      <window_info anchor="right" id="Maven" order="3" weight="0.2982666" />
+=======
+>>>>>>> origin/master
       <window_info anchor="right" id="Maven" order="3" weight="0.27521458" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
@@ -1911,6 +2062,37 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/it_ssm_service/src/main/java/com/it/ssm/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/it_ssm_service/src/main/java/com/it/ssm/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/it_ssm_dao/src/main/java/com/it/ssm/dao/ProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+=======
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -1929,12 +2111,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
+=======
     <entry file="file://$PROJECT_DIR$/it_ssm_web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1942,6 +2127,7 @@
         </state>
       </provider>
     </entry>
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.2.RELEASE/spring-webmvc-5.0.2.RELEASE.jar!/org/springframework/web/servlet/ModelAndView.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
@@ -1968,6 +2154,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/WEB-INF/pages/save.jsp" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/aside.jsp">
+=======
+    <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> origin/master
     <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -2040,6 +2239,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/it_ssm_domain/src/main/java/com/it/ssm/domain/Traveller.java">
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-60">
           <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
@@ -2062,14 +2262,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/java/com/it/ssm/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="486">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+=======
         <state relative-caret-position="301">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+=======
     <entry file="file://$PROJECT_DIR$/it_ssm_service/src/main/java/com/it/ssm/service/ProductService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -2087,6 +2298,7 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
         </state>
       </provider>
     </entry>
@@ -2106,29 +2318,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/orders-list.jsp">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="189">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+=======
         <state relative-caret-position="210">
           <caret line="244" column="66" selection-start-line="244" selection-start-column="56" selection-end-line="244" selection-end-column="66" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/header.jsp">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="432">
+=======
         <state relative-caret-position="390">
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/plugins/font-awesome/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="864">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+=======
         <state relative-caret-position="226">
           <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/main.jsp">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="270">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+=======
         <state relative-caret-position="367">
           <caret line="246" column="18" lean-forward="true" selection-start-line="246" selection-start-column="18" selection-end-line="246" selection-end-column="18" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
         </state>
       </provider>
     </entry>
@@ -2182,16 +2413,36 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/product-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/it_ssm_utils/src/main/java/com/it/ssm/utils/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+=======
     <entry file="file://$PROJECT_DIR$/it_ssm_dao/src/main/java/com/it/ssm/dao/OrderDao.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="562">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+=======
+        <state relative-caret-position="367">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
+>>>>>>> origin/master
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/it_ssm_domain/src/main/java/com/it/ssm/domain/Permission.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -2200,6 +2451,66 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/it_ssm_domain/src/main/java/com/it/ssm/domain/UserInfo.java">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/it_ssm_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-875">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="182" column="10" selection-start-line="182" selection-start-column="10" selection-end-line="182" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/it_ssm_dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/it_ssm_domain/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/it_ssm_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#1223#1239#0" expanded="true" />
+            <element signature="e#1281#1294#0" expanded="true" />
+            <element signature="e#1333#1351#0" expanded="true" />
+            <element signature="e#1394#1412#0" expanded="true" />
+          </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/it_ssm_service/src/main/java/com/it/ssm/service/impl/OrderServiceImpl.java">
+>>>>>>> origin/master
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
@@ -2316,17 +2627,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/it_ssm_service/src/main/java/com/it/ssm/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="345">
           <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="384">
+          <caret line="322" column="50" lean-forward="true" selection-start-line="322" selection-start-column="50" selection-end-line="322" selection-end-column="50" />
+>>>>>>> fe981c2869bf6fbef2e14035c4f546353d391ae8
+>>>>>>> origin/master
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>it_ssm_web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3446691" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (it_ssm_service)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3446691" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -2340,10 +2683,24 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>it_ssm11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3446691" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -2363,10 +2720,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: org.springframework:spring-aop:5.0.2.RELEASE</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3446691" />
               </list>
             </option>
           </splitter-proportions>

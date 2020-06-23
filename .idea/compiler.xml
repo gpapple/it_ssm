@@ -13,5 +13,8 @@
         <module name="it_ssm_utils" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="it_ssm" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
