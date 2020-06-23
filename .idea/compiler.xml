@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="it_ssm_service" />
         <module name="it_ssm_web" />
-        <module name="it_ssm_utils" />
         <module name="it_ssm_dao" />
         <module name="it_ssm_domain" />
+        <module name="it_ssm_utils" />
       </profile>
     </annotationProcessing>
   </component>

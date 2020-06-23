@@ -1,2 +1,4 @@
-com\it\ssm\dao\OrderDao.class
+com\it\ssm\dao\UserDao.class
 com\it\ssm\dao\ProductDao.class
+com\it\ssm\dao\OrderDao.class
+com\it\ssm\dao\RoleDao.class
