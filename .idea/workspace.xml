@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="531acc91-04fd-4f86-8803-2bf0c831ad15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/it_ssm11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/it_ssm11.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_dao/it_ssm_dao.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_dao/target/it_ssm_dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_dao/target/it_ssm_dao-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_dao/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_domain/it_ssm_domain.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_domain/target/it_ssm_domain-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_domain/target/it_ssm_domain-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_domain/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_domain/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_domain/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_domain/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_domain/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_domain/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_domain/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_service/it_ssm_service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_service/target/it_ssm_service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_service/target/it_ssm_service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_utils/it_ssm_utils.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_utils/target/it_ssm_utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_utils/target/it_ssm_utils-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_utils/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_utils/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_utils/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_utils/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_utils/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/conf/logging.properties" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/target/tomcat/conf/logging.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/conf/tomcat-users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/conf/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/target/tomcat/conf/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/logs/access_log.2020-06-21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/index_jsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/aside_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/aside_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/header_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/header_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/product_002dlist_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it_ssm_web/target/tomcat/work/Tomcat/localhost/it_ssm_web/org/apache/jsp/pages/product_002dlist_jsp.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,11 +22,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/it_ssm_service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="567">
+              <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#1223#1239#0" expanded="true" />
+                <element signature="e#1281#1294#0" expanded="true" />
+                <element signature="e#1333#1351#0" expanded="true" />
+                <element signature="e#1394#1412#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/resources/db.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
-              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -171,8 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,10 +194,29 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="it_ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="it_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="it_ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="it_ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="it_ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="it_ssm_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,16 +318,17 @@
       <workItem from="1592820405028" duration="331000" />
       <workItem from="1592820744919" duration="541000" />
       <workItem from="1592875011803" duration="1637000" />
+      <workItem from="1592876662170" duration="1266000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19214000" />
+    <option name="totallyTimeSpent" value="20480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="160" y="69" width="1745" height="948" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29109386" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29587567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -447,13 +438,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/WEB-INF/pages/save.jsp" />
-    <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-215">
-          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/webapp/pages/aside.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-510">
@@ -568,17 +552,30 @@
     <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/resources/db.properties">
+    <entry file="file://$PROJECT_DIR$/it_ssm_service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="567">
+          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/it_ssm_service/pom.xml">
+    <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/resources/db.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="81">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/it_ssm_web/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#1223#1239#0" expanded="true" />
+            <element signature="e#1281#1294#0" expanded="true" />
+            <element signature="e#1333#1351#0" expanded="true" />
+            <element signature="e#1394#1412#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
